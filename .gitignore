@@ -1,0 +1,47 @@
+# Three.js Project Gitignore
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Development server logs
+logs/
+
+# Environment configuration
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Mac OS specific files
+.DS_Store
+
+# Compiled files
+*.js
+*.js.map
+*.min.js
+*.min.js.map
+
+# Build artifacts
+build/
+out/
+
+# Image and asset caches
+.cache/
+.tmp/
+
+# Test coverage reports
+coverage/
+
+# Compiled WebAssembly files
+*.wasm
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Editor backup files
+*~
