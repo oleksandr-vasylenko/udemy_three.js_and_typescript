@@ -1,3 +1,3 @@
-Lessons 1 - 8
+Lessons 13
 
 https://www.udemy.com/course/threejs-tutorials/
